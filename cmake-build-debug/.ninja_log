@@ -1,0 +1,18 @@
+# ninja log v5
+15	1013	7198375591575633	CMakeFiles/A3_PhuocNguyen_Final.dir/Risk.cpp.obj	41dc5133292c7806
+21	1513	7198375596566454	CMakeFiles/A3_PhuocNguyen_Final.dir/GoldCompany.cpp.obj	f228adbb2af10049
+4	1266	7199548211004779	CMakeFiles/A3_PhuocNguyen_Final.dir/main.cpp.obj	e92ae98d2175b12e
+28	1532	7198375596803150	CMakeFiles/A3_PhuocNguyen_Final.dir/Company.cpp.obj	870adb00baf1d4a2
+10	957	7199536987578399	CMakeFiles/A3_PhuocNguyen_Final.dir/Player.cpp.obj	d2f163d7ef3521e2
+37	1534	7198375596833211	CMakeFiles/A3_PhuocNguyen_Final.dir/SilverCompany.cpp.obj	c148411f275f201
+44	1496	7198375596449594	CMakeFiles/A3_PhuocNguyen_Final.dir/BronzeCompany.cpp.obj	5e95a4f7ce60303a
+1267	1423	7199548212548723	A3_PhuocNguyen_Final.exe	f62fea43e240206c
+5	359	7200796875123670	build.ninja	54164f9d87bf398b
+21	686	7200796910540611	CMakeFiles/A3_PhuocNguyen_Final.dir/Risk.cpp.obj	3abf60edd45e3f4
+26	1277	7200796916395448	CMakeFiles/A3_PhuocNguyen_Final.dir/GoldCompany.cpp.obj	ab0296336ea0a3
+15	1402	7200796916505490	CMakeFiles/A3_PhuocNguyen_Final.dir/Company.cpp.obj	95d42fae88e6c493
+42	1403	7200796916965576	CMakeFiles/A3_PhuocNguyen_Final.dir/SilverCompany.cpp.obj	c37ac37ae0e4a4b2
+35	1411	7200796917771020	CMakeFiles/A3_PhuocNguyen_Final.dir/BronzeCompany.cpp.obj	7744592014d82850
+9	1484	7200796918475851	CMakeFiles/A3_PhuocNguyen_Final.dir/Player.cpp.obj	85f9c2fda2f1098a
+4	2009	7200796923762007	CMakeFiles/A3_PhuocNguyen_Final.dir/main.cpp.obj	5b80b27e0e000fc5
+2009	2233	7200796925972677	A3_PhuocNguyen_Final.exe	f62fea43e240206c

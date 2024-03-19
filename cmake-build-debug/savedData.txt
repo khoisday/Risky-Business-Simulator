@@ -1,0 +1,33 @@
+700 5 18 60 4 6 2 4 3 0
+[A]ll Star Studios   ,0 86 3 6,+ money,Nobody
+[B]ookworm Bookshops ,71 92 4 7,+ shares,Nobody
+[C]hocoholics Inc    ,98 118 5 2,+ assets,Nobody
+[D]ingo Dogwash      ,70 70 3 4,+ money,Nobody
+[E]legant Car Sales  ,80 80 4 5,+ shares,Nobody
+[F]lash Designs Inc  ,94 114 5 4,+ assets,Nobody
+[G]ladies Galore!    ,88 98 3 1,+ money,Nobody
+[H]eather's Hotels   ,104 104 4 2,+ shares,Nobody
+[I]ncredible Cakes   ,122 122 5 5,+ assets,Nobody
+[J]umble Records     ,106 106 3 4,+ money,Nobody
+[K]att's Krafts      ,96 96 4 8,+ shares,Nobody
+[L]icorice Allsorts  ,98 98 5 2,+ assets,Nobody
+[M]agic Max's Music  ,94 94 3 7,+ money,Nobody
+[N]erk and Sons      ,0 100 4 1,+ shares,Nobody
+[O]mnibus Travel Co  ,126 126 5 2,+ assets,Nobody
+[P]eregrine Flights  ,0 106 3 5,+ money,Nobody
+[Q]uark Enterprises  ,92 92 4 2,+ shares,Nobody
+[R]usty Hinge Repairs,110 110 5 2,+ assets,Nobody
+3 Player1,220 0 60 4
+[A]ll Star Studios   ,20 86 3 1,No,Nobody
+[B]ookworm Bookshops ,20 92 4 1,No,Nobody
+[C]hocoholics Inc    ,20 118 5 2,No,Nobody
+3 Player2,119 0 31 4
+[A]ll Star Studios   ,1 86 3 1,No,Nobody
+[F]lash Designs Inc  ,20 114 5 7,No,Nobody
+[G]ladies Galore!    ,10 98 3 4,No,Nobody
+2 Player3,193 0 107 4
+[B]ookworm Bookshops ,1 92 4 1,No,Nobody
+[P]eregrine Flights  ,106 106 3 1,No,Nobody
+2 Player4,35 0 165 4
+[A]ll Star Studios   ,65 86 3 1,No,Nobody
+[N]erk and Sons      ,100 100 4 2,No,Nobody
